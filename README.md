@@ -1,5 +1,7 @@
 ## PROJECT OVERVIEW
-The project is aimed to help the company's credit card fraud identification system. The mission is to build a fraud detection model using the dataset given this project showcase strenght in class balancing and neural networks.
+The project is aimed to help the company's credit card fraud identification system. The mission is to build a fraud detection model using the dataset given.
+
+this project showcase strenght in class balancing and neural networks.
 
 
 This project involves:
